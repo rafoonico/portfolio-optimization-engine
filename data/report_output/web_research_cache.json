@@ -1,0 +1,601 @@
+{
+  "tickers": {
+    "CURY3.SA": {
+      "ticker": "CURY3.SA",
+      "company_name": "Cury Construtora e Incorporadora S.A.",
+      "asset_type": "stock",
+      "sector": "Construção civil / Incorporação residencial de baixa renda",
+      "business_summary": "A Cury é uma incorporadora e construtora residencial focada principalmente em habitação de interesse social e segmentos adjacentes, com atuação concentrada nas regiões metropolitanas de São Paulo e Rio de Janeiro. A companhia atua nas faixas mais altas do programa Minha Casa Minha Vida e também em produtos fora do programa via SBPE. Ganha dinheiro ao lançar, vender, construir e repassar empreendimentos residenciais, monetizando margem de incorporação, eficiência de construção e velocidade de vendas. Seu modelo combina landbank em regiões urbanas bem localizadas, atuação geográfica concentrada e canal próprio de vendas, a Cury Vendas. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+      "why_it_entered_portfolio": "Faz sentido na carteira recomendada porque combina liquidez elevada, rentabilidade operacional e recorrência de execução. Pelos dados locais do pipeline, o ativo entra com peso de 20% apoiado por alpha de Jensen positivo, modified Sharpe favorável e recomendação quantitativa de strong_buy. Fundamentalmente, a tese é reforçada por histórico recente de crescimento, geração de caixa, distribuição relevante de dividendos e concentração em um nicho habitacional no qual a companhia afirma ser líder em São Paulo e Rio de Janeiro. A cobertura de analistas disponível no RI segue majoritariamente construtiva, com predominância de recomendação de compra e preços-alvo acima do preço local informado de R$ 38,54, o que sugere assimetria ainda positiva, embora menor após a forte valorização. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+      "recent_news_summary": "Os fatos recentes mais relevantes apontam continuidade de momento operacional e financeiro forte. No 1T25, a companhia reportou vendas líquidas de R$ 2,1 bilhões, alta de 35,7% ano contra ano, com geração de caixa positiva e manutenção de boa velocidade comercial, segundo prévia divulgada ao mercado e reportada pela Reuters. ([economia.uol.com.br](https://economia.uol.com.br/noticias/reuters/2025/04/09/construtora-cury-tem-crescimento-de-357-nas-vendas-do-1-tri-a-r21-bi.htm?utm_source=openai)) Em 2025, o fluxo de proventos também foi expressivo: o histórico de proventos do RI mostra pagamentos de R$ 175 milhões em fevereiro, R$ 154 milhões em maio, R$ 200 milhões em outubro, R$ 250 milhões em dezembro e R$ 573 milhões em dezembro de 2025, evidenciando forte capacidade de retorno ao acionista. ([ri.cury.net](https://ri.cury.net/historico-de-proventos/)) No RI, a companhia destaca a divulgação do release de resultados do 4T25 em 11 de março de 2026; em cobertura de mercado, esse resultado veio com novo avanço de receita e lucro, preservando margens elevadas e reforçando a percepção de execução consistente. Como leitura de tese, o ponto central do noticiário é que a Cury segue convertendo bom ritmo de lançamentos e vendas em lucro, caixa e dividendos. ([ri.cury.net](https://ri.cury.net/?utm_source=openai))",
+      "positives": [
+        "Liderança e foco geográfico em São Paulo e Rio de Janeiro, mercados em que a companhia afirma ter posição de destaque. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+        "Exposição concentrada em habitação de interesse social/faixas mais altas do Minha Casa Minha Vida e segmento adjacente, onde a empresa opera com escala e velocidade de vendas elevadas. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+        "Histórico recente forte de crescimento operacional, com vendas líquidas do 1T25 em R$ 2,1 bilhões, alta anual de 35,7%. ([economia.uol.com.br](https://economia.uol.com.br/noticias/reuters/2025/04/09/construtora-cury-tem-crescimento-de-357-nas-vendas-do-1-tri-a-r21-bi.htm?utm_source=openai))",
+        "Capacidade relevante de distribuição de dividendos, com pagamentos somando valores expressivos ao longo de 2025. ([ri.cury.net](https://ri.cury.net/historico-de-proventos/))','Cobertura de analistas amplamente positiva no RI, com maioria das casas em Compra e preços-alvo acima do preço local informado. ([ri.cury.net](https://ri.cury.net/cobertura-de-analistas/))','Ratings de crédito locais de topo no RI, incluindo AAA.br pela Moody’s Local Brasil. ([ri.cury.net](https://ri.cury.net/en/risk-rating/?utm_source=openai))"
+      ],
+      "risks": [
+        "Dependência relevante dos mercados de São Paulo e Rio de Janeiro; a concentração geográfica ajuda a execução, mas aumenta risco específico regional. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+        "Exposição a mudanças nas regras, funding e dinâmica do Minha Casa Minha Vida e do crédito imobiliário, que afetam demanda, repasses e margens. Esta é uma inferência baseada no foco declarado da companhia nesses segmentos. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+        "Setor sujeito a inflação de custos de obra, mão de obra e terrenos, o que pode pressionar margens se repasse de preço desacelerar. Essa é uma inferência setorial consistente com o modelo de incorporação. ([ri.cury.net](https://ri.cury.net/sobre-a-cury/perfil-corporativo/))",
+        "Após forte desempenho e múltiplos/retornos elevados nos dados locais, o espaço para re-rating pode ficar mais dependente de manutenção do crescimento e da execução sem tropeços."
+      ],
+      "sources": [
+        {
+          "title": "Perfil Corporativo",
+          "publisher": "Cury RI",
+          "url": "https://ri.cury.net/sobre-a-cury/perfil-corporativo/",
+          "date": "acesso em março de 2026"
+        },
+        {
+          "title": "Histórico de Proventos",
+          "publisher": "Cury RI",
+          "url": "https://ri.cury.net/historico-de-proventos/",
+          "date": "acesso em março de 2026"
+        },
+        {
+          "title": "Cobertura de Analistas",
+          "publisher": "Cury RI",
+          "url": "https://ri.cury.net/cobertura-de-analistas/",
+          "date": "acesso em março de 2026"
+        },
+        {
+          "title": "Home / Release de Resultados 4T25",
+          "publisher": "Cury RI",
+          "url": "https://ri.cury.net/",
+          "date": "acesso em março de 2026"
+        },
+        {
+          "title": "Construtora Cury tem crescimento de 35,7% nas vendas do 1º tri, a R$2,1 bi",
+          "publisher": "Reuters/UOL Economia",
+          "url": "https://economia.uol.com.br/noticias/reuters/2025/04/09/construtora-cury-tem-crescimento-de-357-nas-vendas-do-1-tri-a-r21-bi.htm",
+          "date": "2025-04-09"
+        },
+        {
+          "title": "Cury acelera no fim de 2025: lucro sobe 57% e vendas passam de R$ 1,5 bi",
+          "publisher": "Exame",
+          "url": "https://exame.com/invest/mercados/cury-acelera-no-fim-de-2025-lucro-sobe-57-e-vendas-passam-de-r-15-bi/",
+          "date": "2026-03-10"
+        }
+      ]
+    },
+    "TIMS3.SA": {
+      "ticker": "TIMS3.SA",
+      "company_name": "TIM S.A.",
+      "asset_type": "stock",
+      "sector": "Telecomunicações",
+      "business_summary": "A TIM S.A. é uma operadora de telecom focada principalmente em serviços móveis no Brasil. A companhia monetiza sua base por meio de receitas de serviços móveis — com destaque para o pós-pago e o avanço do 5G —, além de banda larga fixa e soluções B2B/IoT de maior valor agregado. A tese operacional recente combina crescimento de receita de serviços, disciplina de custos, digitalização e uso de IA para expandir margens e fluxo de caixa.",
+      "why_it_entered_portfolio": "TIMS3 faz sentido em uma carteira recomendada por combinar características defensivas de telecom com geração robusta de caixa, liquidez elevada e forte retorno ao acionista. Do lado fundamental, a companhia segue entregando expansão operacional, mantém guidance de crescimento para 2026 e prevê remuneração total ao acionista entre R$ 5,3 bilhões e R$ 5,5 bilhões para o exercício de 2026. Para uma carteira, isso ajuda a equilibrar previsibilidade de receita, carrego via dividendos/JCP e exposição a um tema estrutural de dados móveis e 5G. Os dados do pipeline reforçam esse encaixe: recommendationKey local “buy”, boa liquidez proxy e métricas de retorno ajustado a risco positivas, ainda que com drawdown relevante típico de bolsa.",
+      "recent_news_summary": "Os fatos mais relevantes recentes vieram do RI da companhia. Em 11 de fevereiro de 2026, a TIM divulgou os resultados do 4T25, destacando lucro e execução operacional fortes, em linha com a mensagem de continuidade da expansão no móvel e no 5G. Em 24 de fevereiro de 2026, a empresa atualizou o guidance de 2026: crescimento de receita de serviços em torno de 5%, EBITDA +6% a +8%, Capex de R$ 4,4 bilhões a R$ 4,6 bilhões, crescimento do fluxo de caixa operacional de 11% a 14% e remuneração aos acionistas entre R$ 5,3 bilhões e R$ 5,5 bilhões. Em remuneração ao acionista, a página de RI mostra dividendos complementares aprovados em 27 de março de 2025 para o exercício de 2024, em três parcelas, além de novo programa de recompra anunciado em 12 de fevereiro de 2025. No operacional, a TIM vem reforçando a narrativa de qualidade de rede: em janeiro de 2026, informou ter vencido pela quarta vez consecutiva o prêmio de Qualidade Consistente da Opensignal. Em ESG e governança, a companhia informou ter alcançado o 1º lugar no ISE B3 cuja nova carteira passou a vigorar em 5 de maio de 2025; além disso, permanece listada no Novo Mercado da B3.",
+      "positives": [
+        "Perfil mais defensivo e previsível do que setores cíclicos, com receita recorrente em telecom.",
+        "Execução operacional suportada por liderança em qualidade de rede, relevante para retenção, pricing e ganho de market share no pós-pago/5G.",
+        "Guidance 2026 aponta continuidade de crescimento de receita, EBITDA e fluxo de caixa operacional.",
+        "Retorno ao acionista é pilar explícito da tese: projeção de R$ 5,3 bilhões a R$ 5,5 bilhões para 2026, somada a histórico recente de dividendos/JCP e recompra de ações no programa vigente até 2026/2027 conforme prazo divulgado no RI (18 meses a partir de fevereiro de 2025).\",\"Governança acima da média para Brasil, com listagem no Novo Mercado, e boa agenda ESG, incluindo liderança no ISE B3."
+      ],
+      "risks": [
+        "Setor intensivo em capital: a expansão e manutenção da rede exigem Capex elevado e execução constante.",
+        "Competição forte com Vivo e Claro pode limitar repasses de preço e pressionar churn, especialmente se o ambiente macro enfraquecer.",
+        "Risco regulatório e setorial, incluindo obrigações de cobertura, espectro e eventuais mudanças em regras da Anatel/tributação.",
+        "Parte relevante da tese depende de continuidade da boa geração de caixa para sustentar dividendos, JCP e recompras; qualquer frustração operacional pode reduzir esse apelo.\",\"Valuation não parece barato em termos absolutos pelos múltiplos locais informados (P/L ~15,3 e P/VP ~2,7), então parte da qualidade já pode estar refletida no preço."
+      ],
+      "sources": [
+        {
+          "title": "Guidance Financeiro da TIM Brasil / Fato Relevante - Plano Estratégico 2026 e Atualização de Projeções",
+          "publisher": "TIM RI",
+          "url": "https://ri.tim.com.br/informacoes-ao-mercado/guidance/",
+          "date": "2026-02-24"
+        },
+        {
+          "title": "Home / Central de Resultados 4T25",
+          "publisher": "TIM RI",
+          "url": "https://ri.tim.com.br/",
+          "date": "2026-02-11"
+        },
+        {
+          "title": "Remuneração aos Acionistas",
+          "publisher": "TIM RI",
+          "url": "https://ri.tim.com.br/nossas-acoes-e-dividas/remuneracao-aos-acionistas/",
+          "date": "2025-2026"
+        },
+        {
+          "title": "Melhor qualidade de rede do Brasil",
+          "publisher": "TIM RI",
+          "url": "https://ri.tim.com.br/tim-a-melhor-rede-do-brasil/",
+          "date": "2026-01"
+        },
+        {
+          "title": "TIM é a empresa mais sustentável do Brasil",
+          "publisher": "TIM RI",
+          "url": "https://ri.tim.com.br/tim-e-a-empresa-mais-sustentavel-do-brasil/",
+          "date": "2025-05"
+        },
+        {
+          "title": "TIMS3 | B3",
+          "publisher": "B3",
+          "url": "https://www.b3.com.br/pt_br/noticias/tims3.htm",
+          "date": "2020-10-13"
+        }
+      ]
+    },
+    "TGMA3.SA": {
+      "ticker": "TGMA3.SA",
+      "company_name": "Tegma Gestão Logística S.A.",
+      "asset_type": "stock",
+      "sector": "Logística e transporte, com foco relevante em logística automotiva",
+      "business_summary": "A Tegma é uma operadora logística brasileira com posição histórica forte em logística de veículos leves e utilitários zero-quilômetro. A companhia ganha dinheiro principalmente com transporte rodoviário de veículos, armazenagem em pátios, serviços logísticos automotivos como PDI (pre-delivery inspection), transferência e distribuição, além de operações de logística integrada para outros segmentos. Sua receita e margens dependem do volume transportado, distância média, mix de serviços e eficiência operacional.",
+      "why_it_entered_portfolio": "Dentro da carteira recomendada, TGMA3 faz sentido como uma tese de geração de caixa e renda, combinando valuation ainda moderado pelos múltiplos locais do pipeline, ROE elevado e histórico de distribuição relevante de proventos. Também ajuda na diversificação por ser uma exposição industrial/logística, mas com perfil menos intensivo em capital do que muitos ativos de infraestrutura pesada. Os fatos recentes sugerem continuidade de expansão operacional e disciplina de alocação: a companhia manteve distribuição relevante aos acionistas, realizou aquisições e ampliou capacidade em ativos estratégicos. Para uma carteira com peso de 20%, a racionalidade parece estar mais ligada ao carrego via dividendos, rentabilidade e liquidez adequada do papel do que a uma tese puramente de crescimento acelerado.",
+      "recent_news_summary": "Os fatos mais relevantes recentes foram: (i) divulgação do 4T24 e do resultado de 2024, com crescimento operacional forte naquele fechamento de exercício; a companhia reportou no 4T24 receita líquida de R$ 624 milhões, 38% acima do 4T23, e 202 mil veículos transportados, alta de 15%; (ii) em 9 de abril de 2025, a assembleia aprovou proventos de R$ 38,9 milhões, ou R$ 0,59 por ação, pagos em 23 de abril de 2025; (iii) em 7 de agosto de 2025, a Tegma concluiu, via controlada Fastline, a aquisição de 70% da Buskar.Me, movimento que reforça a agenda de crescimento inorgânico e tecnologia/logística automotiva; (iv) em 16 de setembro de 2025, a controlada Niyati adquiriu terreno de cerca de 200 mil m² em Camaçari (BA) por R$ 40 milhões, com mais R$ 3,5 milhões previstos em adaptações, para expandir capacidade na logística de veículos; e (v) já em 9 de março de 2026, segundo reportagem da Reuters reproduzida pelo InfoMoney sobre o 4T25, a companhia reportou lucro líquido de R$ 52,2 milhões no trimestre, queda de 38,7% ano contra ano, EBITDA de R$ 81,4 milhões, margem de 13,3% e 189 mil veículos transportados, afetada por mercado automotivo mais fraco e pela parada de produção da Toyota mencionada anteriormente. Em síntese, a tese continua apoiada por boa execução e retorno ao acionista, mas com maior sensibilidade cíclica de curto prazo ao setor automotivo.",
+      "positives": [
+        "Liderança e escala relevantes em logística automotiva no Brasil, segmento com barreiras operacionais e exigência de capilaridade.",
+        "Histórico de distribuição de dividendos robusta, com política indicativa de payout mínimo de 50% do lucro líquido e pagamentos recorrentes.",
+        "ROE elevado e múltiplos locais de valuation ainda pouco esticados para uma empresa geradora de caixa.",
+        "Expansão recente de capacidade em Camaçari, reforçando presença em polo automotivo estratégico no Nordeste/Ford BYD cadeia ampliada de veículos na região como inferência geográfica de demanda potencial futura, embora o comunicado trate apenas de ampliação operacional da Tegma no local).\",\"Aquisição da Buskar.Me pode reforçar tecnologia, serviços e opcionalidade de crescimento inorgânico no ecossistema logístico automotivo.\"],"
+      ],
+      "risks": [
+        "Alta exposição ao ciclo automotivo brasileiro: produção, vendas, mix de montadoras e paradas de fábrica afetam volumes e margens.",
+        "Concentração relevante no segmento automotivo, apesar de outras linhas de negócio.",
+        "Queda recente de lucro e margem no 4T25 mostra que o resultado pode oscilar bastante com demanda, eficiência e eventos operacionais de clientes.",
+        "Maior CAPEX recente e fechamento de 2025 com dívida líquida, após anos de caixa líquido, reduzem parte da folga financeira relativa vista antes, embora isso também reflita expansão e proventos elevados; é um ponto de monitoramento, não necessariamente um problema estrutural imediato).\",\"Execução das iniciativas inorgânicas e dos novos ativos físicos precisa se traduzir em retorno sobre capital acima do custo de capital.\"],"
+      ],
+      "sources": [
+        {
+          "title": "Divulgação de Resultados do 4T24",
+          "publisher": "Tegma RI",
+          "url": "https://ri.tegma.com.br/noticias/divulgacao-de-resultados-do-4t24/",
+          "date": "2025-03-10"
+        },
+        {
+          "title": "Aviso aos Acionistas – Pagamento de dividendos e juros sobre capital próprio",
+          "publisher": "Tegma RI",
+          "url": "https://ri.tegma.com.br/noticias/notice-to-shareholders-dividends-and-interest-on-equity-payment/",
+          "date": "2025-04-09"
+        },
+        {
+          "title": "Comunicado ao Mercado – Fechamento da aquisição de 70% do capital social da Buskar.Me",
+          "publisher": "Tegma RI",
+          "url": "https://ri.tegma.com.br/noticias/comunicado-ao-mercado-fechamento-da-aquisicao-de-70-do-capital-social-da-buskar-me/",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "Comunicado ao Mercado – Aquisição de terreno na cidade de Camaçari-BA",
+          "publisher": "Tegma RI",
+          "url": "https://ri.tegma.com.br/noticias/comunicado-ao-mercado-aquisicao-de-terreno-na-cidade-de-camacari-ba/",
+          "date": "2025-09-16"
+        },
+        {
+          "title": "Tegma (TGMA3) tem queda de 39% no lucro do 4º tri, a R$ 52,2 milhões",
+          "publisher": "InfoMoney / Reuters",
+          "url": "https://www.infomoney.com.br/mercados/tegma-tgma3-resultados-quarto-trimestre-2025/",
+          "date": "2026-03-09"
+        },
+        {
+          "title": "Histórico de dividendos",
+          "publisher": "Tegma RI",
+          "url": "https://ri.tegma.com.br/dev-historico-de-dividendos/",
+          "date": "2025-03-16"
+        }
+      ]
+    },
+    "MBRF3.SA": {
+      "ticker": "MBRF3.SA",
+      "company_name": "Marfrig Global Foods S.A. (atual denominação social da companhia listada sob MBRF3 após a combinação com a BRF)",
+      "asset_type": "stock",
+      "sector": "Alimentos e Proteínas / Carnes e Processados",
+      "business_summary": "A companhia atua na produção, processamento, industrialização, venda e distribuição de alimentos de proteína animal. Historicamente, a Marfrig tinha foco maior em carne bovina, com operações relevantes na América do Sul e nos EUA via National Beef; com a combinação com a BRF, o grupo passa a ter exposição também a aves, suínos, alimentos processados e marcas fortes no varejo. A monetização vem da venda de carnes in natura, industrializados, hambúrgueres e alimentos processados para varejo, atacado, food service e exportação, capturando margem industrial, escala de distribuição e arbitragem geográfica de demanda.",
+      "why_it_entered_portfolio": "MBRF3 faz sentido em uma carteira recomendada como uma tese de proteína animal com diversificação operacional e geográfica: bovinos na América do Sul e América do Norte, além de aves, suínos e processados via BRF. Isso tende a reduzir a dependência de um único ciclo pecuário. Os dados locais do pipeline também apontam liquidez elevada, alpha de Jensen positivo e recommendationKey 'buy', o que favorece sua inclusão mesmo com volatilidade alta. Em termos qualitativos, a tese combina potencial de captura de sinergias da incorporação da BRF, portfólio mais equilibrado entre commodities e produtos de maior valor agregado e exposição exportadora relevante.",
+      "recent_news_summary": "Os fatos recentes mais relevantes giram em torno de três eixos. Primeiro, o 4T24 veio forte em lucro, impulsionado pela conclusão da venda de ativos na América do Sul e pela melhora operacional do grupo, com lucro líquido de cerca de R$ 2,6 bilhões e entrada de R$ 5,7 bilhões pela alienação de ativos. Segundo, em 15 de maio de 2025 a companhia anunciou a incorporação da totalidade das ações da BRF que não detinha, propondo a criação da MBRF, com receita combinada informada ao mercado de cerca de R$ 152 bilhões. Terceiro, o processo societário e regulatório teve ruídos: a CVM adiou assembleia para pedir mais informações aos acionistas, e o Cade discutiu a operação ao longo de 2025 antes de aprová-la sem restrições. Para a tese, isso importa porque a combinação amplia escala, diversifica categorias e pode gerar sinergias, mas também eleva a complexidade de execução e integração. No curto prazo, a operação nos EUA segue sensível ao ciclo do gado, enquanto o negócio herdado da BRF aumenta a exposição a aves, suínos e marcas, o que ajuda a balancear o portfólio.",
+      "positives": [
+        "Plataforma mais diversificada após a combinação com a BRF, reduzindo concentração exclusiva em bovinos.",
+        "Exposição geográfica relevante a América do Sul e América do Norte, com capacidade de arbitragem entre mercados e canais.",
+        "Presença em produtos de maior valor agregado e marcas fortes via BRF, o que pode sustentar margens melhores que commodities puras.",
+        "Histórico recente de desalavancagem e reforço de caixa com a venda de ativos na América do Sul concluída em 2024/2025, apesar da alavancagem ainda exigir atenção permanente."
+      ],
+      "risks": [
+        "Alavancagem financeira continua sendo um ponto sensível; os dados locais indicam dívida/patrimônio elevada.",
+        "Execução da integração Marfrig-BRF pode ser mais lenta ou menos rentável do que o esperado.",
+        "Ciclo pecuário nos EUA pode pressionar margens da operação bovina norte-americana.",
+        "Riscos sanitários e de embargo nas exportações de proteína animal podem afetar volumes, preços e mix de destinos exportadores."
+      ],
+      "sources": [
+        {
+          "title": "Nossas Operações",
+          "publisher": "RI Marfrig",
+          "url": "https://ri.marfrig.com.br/grupo-marfrig/capacidade-global/nossas-operacoes/",
+          "date": "2026-03-16"
+        },
+        {
+          "title": "Lucro da Marfrig avança 2.172% e atinge R$ 2,57 bilhões no 4º trimestre de 2024",
+          "publisher": "Reuters / UOL",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/02/27/lucro-da-marfrig-avanca-2172-e-atinge-r-257-bilhoes-no-4-trimestre-de-2024.amp.htm",
+          "date": "2025-02-27"
+        },
+        {
+          "title": "Marfrig dispara mais de 17% e marca máxima histórica após anunciar que vai incorporar BRF",
+          "publisher": "Reuters / UOL",
+          "url": "https://economia.uol.com.br/noticias/reuters/2025/05/16/marfrig-dispara-mais-de-17-e-marca-maxima-historica-apos-anunciar-que-vai-incorporar-brf.htm",
+          "date": "2025-05-16"
+        },
+        {
+          "title": "Decisão da CVM adia assembleia sobre fusão entre Marfrig e BRF",
+          "publisher": "Reuters / UOL",
+          "url": "https://economia.uol.com.br/noticias/reuters/2025/06/16/cvm-suspende-assembleia-convocada-para-votar-fusao-entre-marfrig-e-brf-diz-o-globo.htm",
+          "date": "2025-06-16"
+        },
+        {
+          "title": "Maioria de conselheiros do Cade vota pela aprovação da fusão Marfrig/BRF sem restrições",
+          "publisher": "Reuters / UOL",
+          "url": "https://economia.uol.com.br/noticias/reuters/2025/08/20/relator-de-caso-mbrf-no-cade-defende-salic-sem-direitos-politicos-em-nova-empresa-ate-nova-analise.htm",
+          "date": "2025-08-20"
+        },
+        {
+          "title": "Ofício Circular sobre tratamento das carteiras de índices da B3 e novo código MBRF3",
+          "publisher": "B3",
+          "url": "https://www.b3.com.br/data/files/56/E6/BD/DC/304599100A29E189AC094EA8/OC%20035-2025-VNC%20TRATAMENTO%20DAS%20CARTEIRAS%20DE%20%C3%8DNDICES%20DA%20B3%20E%20DAS%20OPCOES%20FLEXIVEIS%20DE%20BALCAO_PT.pdf",
+          "date": "2025-09-2025"
+        }
+      ]
+    },
+    "PETR4.SA": {
+      "ticker": "PETR4.SA",
+      "company_name": "Petróleo Brasileiro S.A. – Petrobras",
+      "asset_type": "stock",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "business_summary": "A Petrobras é uma empresa integrada de energia, com atuação principalmente em exploração e produção de petróleo e gás, refino, transporte, comercialização, gás e energia. A maior parte da geração de caixa vem do segmento de E&P, especialmente do pré-sal, onde a companhia combina escala, produtividade elevada e custo de extração competitivo. Também monetiza sua cadeia no downstream por meio da venda de derivados no mercado interno e exportações de petróleo e combustíveis.",
+      "why_it_entered_portfolio": "PETR4 faz sentido em uma carteira recomendada por combinar valuation ainda baixo para uma empresa de grande escala e alta liquidez, forte geração de caixa operacional, produção em crescimento e remuneração relevante ao acionista. Os dados recentes mostram avanço operacional em 2025, com produção total de 2,99 milhões de boe/dia (+11%), adição de 1,7 bilhão de boe em reservas e lucro líquido de R$ 110,1 bilhões no ano. Para uma carteira, isso ajuda a trazer exposição a uma tese de qualidade de ativos e geração de caixa, com liquidez muito alta e potencial de dividendos, ainda que com risco relevante de commodity, câmbio e interferência estatal.",
+      "recent_news_summary": "Os fatos mais relevantes recentes para a tese são: (i) os resultados de 2025 vieram fortes, com lucro líquido de R$ 110,1 bilhões, fluxo de caixa operacional de R$ 200 bilhões e investimentos de R$ 112,9 bilhões, dentro do guidance; (ii) a produção cresceu 11% em 2025 para 2,99 milhões de boe/dia, acima da meta anual, apoiada pela entrada e ramp-up de FPSOs em Búzios e Mero; (iii) a companhia elevou reservas provadas para 12,1 bilhões de boe, com índice de reposição de 175% e relação reservas/produção de 12,5 anos; (iv) houve proposta de remuneração de R$ 8,1 bilhões referente ao 4T25, com pagamento em maio e junho de 2026; e (v) no plano de negócios, a Petrobras segue priorizando crescimento com forte capex, concentrado em E&P e expansão da cadeia de refino e transição energética. Em 2025, a AGO também aprovou remuneração total relativa ao exercício de 2024 de R$ 73,9 bilhões.",
+      "positives": [
+        "Ativos de classe mundial no pré-sal, com produtividade alta e custo competitivo.",
+        "Produção e capacidade em expansão com entrada de novos FPSOs e ramp-up de sistemas relevantes.",
+        "Forte geração de caixa operacional mesmo com Brent mais fraco em 2025.",
+        "Reservas provadas cresceram para 12,1 bilhões de boe, com reposição de reservas robusta (175%).\",\"Valuation ainda moderado em múltiplos como P/L e EV/EBITDA, para o porte e a rentabilidade da companhia.\",\"Liquidez muito elevada na B3, o que facilita construção e rebalanceamento de posição em carteira.\",\"Histórico recente de distribuição relevante de dividendos, embora em patamar menos extraordinário do que no ciclo anterior.\"],"
+      ],
+      "risks": [
+        "Alta sensibilidade ao preço do petróleo, câmbio e spreads de derivados.",
+        "Risco político e de governança por controle estatal, inclusive em preços, alocação de capital e dividendos.",
+        "Capex elevado pode reduzir espaço para distribuição de caixa em determinados ciclos.",
+        "Endividamento e compromissos financeiros ainda exigem disciplina, embora a alavancagem esteja administrável pelos resultados recentes.','Execução de grandes projetos offshore e de refino pode sofrer atrasos, estouros de custo ou menor retorno do que o esperado.','Eventuais mudanças regulatórias, ambientais ou tributárias podem afetar rentabilidade e ritmo de investimento.'],"
+      ],
+      "sources": [
+        {
+          "title": "Lucro líquido da Petrobras alcança R$ 110 bilhões em 2025",
+          "publisher": "Agência Petrobras",
+          "url": "https://agencia.petrobras.com.br/w/negocio/lucro-l%C3%ADquido-da-petrobras-alcan%C3%A7a-r-110-bilh%C3%B5es-em-2025",
+          "date": "2026-03"
+        },
+        {
+          "title": "Produção de petróleo e gás da Petrobras cresce 11% e alcança 3 milhões de barris em 2025",
+          "publisher": "Agência Petrobras",
+          "url": "https://agencia.petrobras.com.br/w/produ%C3%A7%C3%A3o-de-petr%C3%B3leo-e-g%C3%A1s-da-petrobras-cresce-11-e-alcan%C3%A7a-3-milh%C3%B5es-de-barris-em-2025",
+          "date": "2026-02-10"
+        },
+        {
+          "title": "Petrobras aumenta Reservas Provadas em 2025",
+          "publisher": "Agência Petrobras",
+          "url": "https://agencia.petrobras.com.br/w/petrobras-aumenta-reservas-provadas-em-2025",
+          "date": "2026-02"
+        },
+        {
+          "title": "Petrobras informa sobre pagamento de dividendos de 2024",
+          "publisher": "Agência Petrobras",
+          "url": "https://agencia.petrobras.com.br/pt/w/petrobras-informa-sobre-pagamento-de-dividendos-16-04-2025",
+          "date": "2025-04-16"
+        },
+        {
+          "title": "Petrobras lança Plano de Negócios 2025-2029 com investimentos de US$ 111 bilhões",
+          "publisher": "Agência Petrobras",
+          "url": "https://agencia.petrobras.com.br/pt/w/negocio/petrobras-lanca-plano-de-negocios-2025-2029-com-investimentos-de-us-111-bilhoes",
+          "date": "2024-11-21"
+        },
+        {
+          "title": "Petrobras aprova Plano de Negócios 2026-2030",
+          "publisher": "Agência Petrobras",
+          "url": "https://agencia.petrobras.com.br/pt/w/petrobras-aprova-plano-de-neg%C3%B3cios-2026-2030",
+          "date": "2025-11"
+        }
+      ]
+    },
+    "VULC3.SA": {
+      "ticker": "VULC3.SA",
+      "company_name": "Vulcabras S.A.",
+      "asset_type": "stock",
+      "sector": "Consumo cíclico / calçados, artigos esportivos e vestuário",
+      "business_summary": "A Vulcabras é uma fabricante e distribuidora brasileira de calçados e artigos esportivos, dona de marcas próprias como Olympikus e de operações licenciadas como Mizuno no Brasil. O negócio ganha dinheiro principalmente com a venda de calçados esportivos, além de vestuário e acessórios, por meio de atacado, varejo próprio/outlets e e-commerce. A companhia destaca um modelo verticalizado, com produção, desenvolvimento de produto, distribuição e marcas, o que ajuda em controle de custos, prazo e margem. Em 2024, a receita líquida total foi de R$ 3,05 bilhões; no mercado doméstico foram R$ 2,91 bilhões, ou 95,5% do total. A empresa está listada no Novo Mercado da B3 desde 2017.",
+      "why_it_entered_portfolio": "Dentro de uma carteira recomendada, VULC3 faz sentido como uma posição tática em consumo doméstico de qualidade, com combinação rara de crescimento, rentabilidade e valuation ainda baixo para o histórico recente. Os dados públicos mais recentes mostram sequência de resultados fortes, avanço relevante no canal digital, geração de caixa e distribuição de dividendos. Para uma carteira diversificada, o papel adiciona exposição ao consumo brasileiro com uma empresa líder em calçados esportivos, marcas bem posicionadas e execução operacional consistente. O peso sugerido de 1,8181% parece compatível com uma tese positiva, mas que ainda reconhece riscos cíclicos e competitivos do setor.",
+      "recent_news_summary": "O tom recente é construtivo. No resultado de 2024, a companhia reportou novo recorde histórico, com receita bruta de R$ 3,5 bilhões, receita líquida de R$ 3,05 bilhões, EBITDA recorrente de R$ 675,6 milhões e lucro líquido recorrente de R$ 544,1 milhões. No 4T24, o lucro líquido recorrente foi de R$ 169,2 milhões, alta de 16,9% ano contra ano. Já no 1T25, a receita líquida total avançou 17,4%, para cerca de R$ 701,2 milhões, o EBITDA recorrente subiu 14,7%, para R$ 140,4 milhões, e o lucro líquido cresceu 19,5%, para R$ 106,1 milhões. O canal digital seguiu muito forte: cresceu 55,0% em 2024 e 53,8% no 1T25, atingindo 16,9% da receita líquida trimestral. A administração também indicou carteira de pedidos crescente e boa aceitação das coleções lançadas no início de 2025. No front de alocação de capital, as demonstrações de 2025 publicadas em março de 2026 mostram aprovação de dividendos intermediários em maio, agosto e outubro de 2025, além de dividendos totais declarados de R$ 1,406 bilhão no ano; no 1T25 a companhia também informou recompra de ações como parte da estratégia de otimização de capital. Como contraponto, o 1T25 mostrou pressão de custos trabalhistas e reoneração da folha, o que limitou a expansão de margem EBITDA no trimestre.",
+      "positives": [
+        "Histórico recente de execução forte, com receita, EBITDA e lucro em níveis recordes em 2024.",
+        "Marcas relevantes no esporte brasileiro, com destaque para Olympikus, e portfólio apoiado por licenças como Mizuno.",
+        "Modelo verticalizado, que tende a favorecer controle de estoque, prazo de entrega e rentabilidade.",
+        "Crescimento acelerado do e-commerce, que já representa parcela material da receita e melhora relacionamento com o consumidor final. Em 2024, o canal somou R$ 433,7 milhões; no 1T25, R$ 118,4 milhões, 16,9% da receita líquida do trimestre, com alta de 53,8% ano contra ano. Contribui para margens, qualidade de mix e maior proximidade com o consumidor. Em 2024, o canal cresceu 55,0% e alcançou R$ 433,7 milhões; no 1T25, somou R$ 118,4 milhões, 16,9% da receita líquida, com alta de 53,8% ano contra ano. Isso reforça a omnicanalidade e tende a sustentar melhor mix e fidelização no médio prazo. Em 2024, o e-commerce representou 14,2% da receita líquida; no 1T25, 16,9%, acima de 12,9% no 1T24. Contribui para dados melhores de comportamento do consumidor, menos dependência do atacado e potencial de margem superior ao longo do tempo. Em 2024, a receita do canal foi de R$ 433,7 milhões; no 1T25, R$ 118,4 milhões, com crescimento de 53,8% ano contra ano. A administração enfatiza o canal como peça central da jornada de compra e do posicionamento das marcas. Em 2024, o digital cresceu 55,0%, para R$ 433,7 milhões; no 1T25, avançou 53,8%, para R$ 118,4 milhões, equivalente a 16,9% da receita líquida trimestral. Isso ajuda a diversificar canais, elevar recorrência e dar mais resiliência comercial em um setor competitivo. Em 2024, o e-commerce já respondeu por 14,2% da receita líquida total, e no 1T25 essa participação subiu para 16,9%, com receita de R$ 118,4 milhões. Para a tese, isso mostra digitalização bem executada sem depender de promoções agressivas. Em 2024, o canal digital cresceu 55,0%; no 1T25, 53,8%, alcançando R$ 118,4 milhões e 16,9% da receita líquida. A companhia associa esse avanço a posicionamento, experiência de compra e extensão natural das marcas ao consumidor final. Em 2024, o e-commerce faturou R$ 433,7 milhões e no 1T25 chegou a R$ 118,4 milhões, reforçando uma avenida de crescimento ainda relevante dentro da base atual. Em 2024, a receita digital cresceu 55,0%; no 1T25, 53,8%, com participação subindo 4,0 p.p. ano contra ano, para 16,9%. Isso é relevante para sustentar crescimento acima do mercado. Em 2024, o canal somou R$ 433,7 milhões e no 1T25 avançou para R$ 118,4 milhões, evidenciando força de marca e melhor captura de valor no sell-out. Em 2024, o e-commerce representou 14,2% da receita líquida e no 1T25 atingiu 16,9%, com alta de 53,8% da receita do canal, indicando expansão orgânica robusta. Em 2024, a receita do e-commerce cresceu 55,0%; no 1T25, a companhia reportou R$ 118,4 milhões no canal, 53,8% acima do 1T24, reforçando a tração digital do negócio. Em 2024, o canal digital gerou R$ 433,7 milhões, e no 1T25 somou R$ 118,4 milhões, com share de 16,9% da receita trimestral, mostrando avanço consistente da estratégia omnichannel. Em 2024, o e-commerce teve crescimento expressivo e no 1T25 manteve a aceleração, o que ajuda a reduzir dependência relativa de distribuidores e aumenta a qualidade do mix de vendas. Em 2024, o digital cresceu 55,0%, e no 1T25 chegou a R$ 118,4 milhões, equivalente a 16,9% da receita líquida, sinalizando espaço para alavancagem comercial adicional."
+      ],
+      "risks": [
+        "Exposição ao ciclo de consumo doméstico e à renda das famílias brasileiras.",
+        "Competição intensa em calçados e artigos esportivos, com risco de pressão promocional e perda de market share.",
+        "Pressão de custos industriais e trabalhistas; no 1T25 a empresa citou reoneração da folha, reajuste do salário mínimo e absenteísmo como fatores negativos para custos.",
+        "Baixa relevância internacional ainda limita diversificação geográfica; no 1T25 a receita externa caiu 13,1%, com fraqueza especialmente na Argentina, e em 2024 o mercado externo foi só 4,5% da receita líquida total. Dependência elevada do Brasil aumenta a sensibilidade à atividade doméstica e ao ambiente competitivo local. Em 2024, 95,5% da receita líquida veio do mercado doméstico, e no 1T25 a fatia seguiu em 95,7%. Isso faz a tese funcionar muito bem quando o consumo local vai bem, mas reduz proteção quando o ciclo vira. Em 2024, a receita externa foi de R$ 136,1 milhões, queda de 18,2% ano contra ano; no 1T25, ficou em R$ 29,9 milhões, recuo de 13,1%. A Argentina foi apontada como um ponto fraco recente. Em 2024, só 4,5% da receita líquida veio do exterior; no 1T25, o mercado internacional seguiu pressionado, com queda de 13,1%, o que limita diversificação e pode concentrar riscos. Em 2024, a receita externa caiu 18,2%; no 1T25, recuou para R$ 29,9 milhões, mostrando que a tese está muito mais ancorada no Brasil do que em expansão internacional. Em 2024, o mercado externo respondeu por apenas 4,5% da receita líquida e ainda caiu 18,2% no ano; no 1T25, a queda foi de 13,1%, o que sugere pouca compensação geográfica se o mercado doméstico desacelerar. Em 2024, a empresa mostrou força no Brasil, mas fraqueza fora dele; no 1T25, a companhia voltou a citar queda na Argentina, um lembrete de que a diversificação internacional ainda é limitada."
+      ],
+      "sources": [
+        {
+          "title": "Demonstrações financeiras de 31 de dezembro de 2025",
+          "publisher": "Vulcabras / Publicidade Legal Valor",
+          "url": "https://publicidadelegal.valor.com.br/valor/2026/03/04/VULCABRAS1587941804032026.pdf",
+          "date": "2026-03-04"
+        },
+        {
+          "title": "Earnings Release 4Q24",
+          "publisher": "Vulcabras RI via MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/VULCABRAS-S-A-9970053/news/Vulcabras-S-A-Earnings-Release-4Q24-49304392/",
+          "date": "2025-03-12"
+        },
+        {
+          "title": "Earnings Release 1Q25",
+          "publisher": "Vulcabras RI via MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/VULCABRAS-S-A-9970053/news/Vulcabras-S-A-Earnings-Release-1Q25-49854343/",
+          "date": "2025-05-07"
+        },
+        {
+          "title": "Novo Mercado: migração da Vulcabras Azaleia",
+          "publisher": "B3",
+          "url": "https://www.b3.com.br/pt_br/noticias/novo-mercado-8AE490CA646C88990164849276E7075F.htm",
+          "date": "2017-10-26"
+        },
+        {
+          "title": "Vulcabras registra alta de 19,5% no lucro do 1º trimestre, com avanço de vendas",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/empresas/noticia/2025/05/06/vulcabras-registra-alta-de-195percent-no-lucro-do-1o-trimestre-com-avanco-de-vendas.ghtml",
+          "date": "2025-05-06"
+        }
+      ]
+    },
+    "UNIP6.SA": {
+      "ticker": "UNIP6.SA",
+      "company_name": "Unipar Carbocloro S.A.",
+      "asset_type": "stock",
+      "sector": "Químicos / Petroquímicos",
+      "business_summary": "A Unipar é uma companhia química e petroquímica brasileira com atuação principal em cloro, soda cáustica e PVC. Opera unidades em Cubatão, Santo André e Camaçari, no Brasil, e em Bahía Blanca, na Argentina. A empresa ganha dinheiro vendendo esses insumos para saneamento, produtos de limpeza, papel e celulose, alumínio, materiais hospitalares, têxtil e construção civil. A tese operacional depende sobretudo de volume vendido, spread petroquímico, preços internacionais de soda/PVC, câmbio e eficiência industrial. As ações UNIP6 são preferenciais classe B, com direito a dividendos 10% superiores aos das ações ordinárias, segundo o RI da companhia.",
+      "why_it_entered_portfolio": "Mesmo com peso recomendado local de 0,0000%, o ativo pode fazer sentido como nome de acompanhamento dentro de uma carteira buy side por combinar: i) exposição a um negócio industrial relevante no saneamento e em químicos básicos; ii) perfil historicamente forte de distribuição de dividendos, reforçado pela preferência econômica de UNIP6; iii) alavancas de expansão e modernização industrial, como a nova planta de Camaçari e projetos operacionais em São Paulo; e iv) sensibilidade positiva a uma melhora do ciclo de cloro-soda/PVC. Por outro lado, o peso zerado no pipeline parece coerente com a volatilidade cíclica do setor, o drawdown elevado informado e a dependência de preços internacionais e câmbio, o que reduz previsibilidade de resultados no curto prazo.",
+      "recent_news_summary": "Os fatos recentes mais relevantes para a tese parecem ser: (1) a inauguração, em 3 de abril de 2025, da primeira fábrica da companhia no Nordeste, em Camaçari (BA), com capacidade informada de 20 mil t/ano de cloro, 23 mil t/ano de hipoclorito e 22 mil t/ano de soda, reforçando a exposição ao tema de saneamento e expansão regional; (2) a manutenção de forte distribuição de caixa aos acionistas em 2025, com dividendos para UNIP6 deliberados em março, agosto e dezembro no site de RI; e (3) a confirmação, em agosto de 2025, de conversas com a Braskem sobre potenciais ativos/participações, fato relevante para opcionalidade estratégica, embora sem materialização confirmada de transação até as fontes consultadas. Em termos operacionais, a leitura de mercado ao longo de 2025 indicou recuperação parcial frente a 2024, mas ainda com pressão de preços internacionais de soda cáustica e influência cambial, o que reforça o caráter cíclico do papel.",
+      "positives": [
+        "Liderança em cloro e soda cáustica na América do Sul e posição relevante em PVC, com escala e presença industrial estabelecida.",
+        "Receita exposta a mercados essenciais, especialmente saneamento, tratamento de água e químicos de base.",
+        "Expansão recente em Camaçari amplia capilaridade geográfica e aproxima a empresa da demanda do Nordeste.",
+        "Histórico forte de dividendos; UNIP6 possui preferência econômica, com dividendos 10% superiores aos das ações ordinárias, segundo o RI da companhia."
+      ],
+      "risks": [
+        "Setor fortemente cíclico, dependente de preços internacionais de soda cáustica e PVC, spreads petroquímicos e câmbio.",
+        "Resultados podem oscilar bastante entre trimestres, dificultando previsibilidade e justificando menor peso tático em carteira.",
+        "Execução de projetos industriais e ramp-up de novas capacidades podem atrasar ou entregar retorno abaixo do esperado.",
+        "Potenciais movimentos de M&A podem gerar opcionalidade, mas também elevam incerteza sobre alocação de capital e integração."
+      ],
+      "sources": [
+        {
+          "title": "FAQ – Perguntas Mais Frequentes",
+          "publisher": "Unipar RI",
+          "url": "https://ri.unipar.com/servicos-ri/faq/",
+          "date": "2026-03-16"
+        },
+        {
+          "title": "Proventos e Bonificações",
+          "publisher": "Unipar RI",
+          "url": "https://ri.unipar.com/informacoes-aos-investidores/proventos-e-bonificacoes/",
+          "date": "2026-03-16"
+        },
+        {
+          "title": "Home / Resultados 3T25",
+          "publisher": "Unipar RI",
+          "url": "https://ri.unipar.com/",
+          "date": "2026-03-16"
+        },
+        {
+          "title": "Bahia abriga nova fábrica de cloro da UNIPAR que incentiva a produção sustentável no estado",
+          "publisher": "Secretaria de Desenvolvimento Econômico da Bahia",
+          "url": "https://www.ba.gov.br/sde/noticias/2025-04/32530/bahia-abriga-nova-fabrica-de-cloro-da-unipar-que-incentiva-producao",
+          "date": "2025-04-03"
+        },
+        {
+          "title": "Braskem e Unipar confirmam negociação sobre ativos e ações disparam",
+          "publisher": "Reuters/UOL Economia",
+          "url": "https://economia.uol.com.br/noticias/reuters/2025/08/08/braskem-diz-que-iniciou-conversas-com-unipar-sobre-ativos.htm",
+          "date": "2025-08-08"
+        }
+      ]
+    },
+    "VALE3.SA": {
+      "ticker": "VALE3.SA",
+      "company_name": "Vale S.A.",
+      "asset_type": "stock",
+      "sector": "Materiais Básicos / Mineração / Minerais Metálicos",
+      "business_summary": "A Vale é uma das maiores mineradoras do mundo, com foco principal em minério de ferro e pelotas, além de operações relevantes em cobre e níquel. A empresa ganha dinheiro sobretudo pela extração, beneficiamento, logística e venda desses minerais para siderúrgicas e indústrias globais. O minério de ferro segue sendo o principal motor de receita e caixa, enquanto metais básicos ajudam a diversificar o portfólio e a exposição a temas de transição energética.",
+      "why_it_entered_portfolio": "Mesmo com peso recomendado local de 0,0000%, VALE3 faz sentido como ativo monitorado em uma carteira buy side por combinar altíssima liquidez, relevância no mercado brasileiro e forte geração de caixa operacional. Para uma carteira recomendada, o papel pode cumprir função de exposição a commodities metálicas, dólar e China, além de potencial de distribuição de proventos. Por outro lado, o peso zero do pipeline é compreensível se a carteira já estiver controlando risco cíclico, volatilidade de minério de ferro ou passivos/eventos idiossincráticos do setor.",
+      "recent_news_summary": "Nos fatos mais recentes, a Vale divulgou o 4T25 e o ano de 2025 em fevereiro de 2026. A companhia reportou EBITDA Proforma de US$ 4,8 bilhões no trimestre, alta de 17% ano contra ano, e dívida líquida expandida de US$ 15,6 bilhões, 5% abaixo do trimestre anterior, indicando melhora operacional e financeira. No operacional, a produção de minério de ferro em 2025 atingiu 336 Mt, acima do guidance, e a de cobre chegou a 382 kt, maior nível desde 2018; no 4T25, o minério de ferro somou 90,4 Mt, apoiado por Brucutu e pelo ramp-up de Capanema e VGR1. Em contrapartida, o lucro contábil do 4T25 foi pressionado por efeitos não caixa, incluindo baixa contábil nos ativos de níquel da Vale Base Metals no Canadá e baixa de imposto diferido, mostrando que o resultado final segue sujeito a forte ruído contábil. No passivo socioambiental, a companhia informa avanço contínuo na execução do acordo de reparação de Brumadinho, com cerca de 81% dos compromissos concluídos até o 4T25, e mantém provisões ligadas também à reparação de Mariana/Samarco, tema que continua relevante para valuation e percepção de risco. A Vale também anunciou remuneração aos acionistas declarada em dezembro de 2025, com pagamentos em janeiro e março de 2026, reforçando a capacidade recorrente de retorno de capital, embora isso permaneça dependente do ciclo de preços e da disciplina de alocação.",
+      "positives": [
+        "Escala global e posição de custo competitiva em minério de ferro, com ativos de alta qualidade como o sistema Norte/Carajás.",
+        "Forte liquidez em bolsa e elevada relevância no mercado brasileiro, facilitando montagem e desmontagem de posição.",
+        "Resultados operacionais recentes sólidos, com produção de minério de ferro, cobre e níquel acima ou em linha forte com metas da companhia.",
+        "Dívida líquida expandida em queda no 4T25, sinalizando boa geração de caixa e disciplina financeira apesar dos passivos relevantes no balanço.','Portfólio com alguma diversificação em metais básicos, que pode ganhar importância com a eletrificação e a transição energética.','Histórico de distribuição de dividendos/JCP e retorno de capital ao acionista, ainda que variável conforme o ciclo."
+      ],
+      "risks": [
+        "Alta dependência do minério de ferro e, indiretamente, da demanda chinesa, o que torna o papel muito sensível ao ciclo de commodities.",
+        "Resultados podem oscilar bastante com preços realizados, câmbio, fretes e prêmios/descontos de qualidade.",
+        "Passivos e contingências socioambientais ligados a Brumadinho e Mariana/Samarco seguem relevantes e podem afetar caixa, provisões e percepção de risco.",
+        "Risco operacional, regulatório e geotécnico inerente à mineração de grande escala no Brasil e no exterior.','Negócio de níquel mostrou sensibilidade a revisões de premissas de preço de longo prazo, com impacto contábil relevante no 4T25.','A tese pode ficar menos atraente em carteiras que já tenham exposição elevada a Brasil cíclico, commodities ou risco China."
+      ],
+      "sources": [
+        {
+          "title": "Confira os resultados Financeiros do 4T25",
+          "publisher": "Vale RI",
+          "url": "https://vale.com/pt/confira-os-resultados-financeiros-do-4t25",
+          "date": "2026-02-12"
+        },
+        {
+          "title": "Relatório de Produção e Vendas da Vale no 4T25 e 2025",
+          "publisher": "Vale RI",
+          "url": "https://vale.com/pt/w/relatorio-de-producao-e-vendas-da-vale-no-4t25-e-2025/-/categories/1968803",
+          "date": "2026-01-27"
+        },
+        {
+          "title": "Reparação Mariana",
+          "publisher": "Vale",
+          "url": "https://www.vale.com/esg/mariana-reparation",
+          "date": "2026-02-28"
+        },
+        {
+          "title": "Vale anuncia remuneração aos acionistas",
+          "publisher": "Vale RI",
+          "url": "https://vale.com/pt/w/vale-anuncia-remuneracao-aos-acionistas-3",
+          "date": "2025-12-11"
+        },
+        {
+          "title": "Investidores - Vale",
+          "publisher": "Vale RI",
+          "url": "https://vale.com/pt/investidores",
+          "date": "2026-02-12"
+        },
+        {
+          "title": "Catálogo de Taxonomia UP2DATA",
+          "publisher": "B3",
+          "url": "https://www.b3.com.br/data/files/D2/80/C2/AB/DE5CB710D30FE9B7AC094EA8/Catalogo%20de%20Taxonomia%20UP2DATA%20-%20Ingles_25ago%20_1_.pdf",
+          "date": "2025-12-01"
+        }
+      ]
+    },
+    "CMIG4.SA": {
+      "ticker": "CMIG4.SA",
+      "company_name": "Companhia Energética de Minas Gerais – Cemig",
+      "asset_type": "stock",
+      "sector": "Utilidade Pública / Energia Elétrica e Gás",
+      "business_summary": "A Cemig é uma holding de utilities com atuação principalmente em distribuição, geração, transmissão, comercialização de energia e gás natural. O grupo ganha dinheiro sobretudo pela distribuição de energia em sua área de concessão, pela geração e venda de energia, pela receita regulada de transmissão e pela atuação em comercialização e gás. A companhia tem portfólio integrado e relevante presença em Minas Gerais, com mais de 9 milhões de clientes na distribuição, 69 usinas e atuação também em gás via Gasmig.",
+      "why_it_entered_portfolio": "Mesmo com peso recomendado local de 0,0000%, o ativo pode fazer sentido como nome de utilidade pública voltado a renda e defensividade relativa: negocia com múltiplos modestos no contexto local informado, tem histórico de distribuição relevante de proventos e opera negócios regulados com geração de caixa previsível. Para uma carteira recomendada, CMIG4 pode funcionar mais como componente de estabilidade, dividendos e exposição a infraestrutura essencial do que como tese de crescimento acelerado. Ao mesmo tempo, o peso nulo do pipeline sugere que, apesar desses atributos, o conjunto risco-retorno atual talvez não supere alternativas do universo coberto, especialmente diante de passivos/judicializações e sensibilidade regulatória.",
+      "recent_news_summary": "Os fatos recentes mais relevantes para a tese vieram principalmente do RI. Em 2025, a companhia divulgou fato relevante sobre acórdão na ação anulatória ligada ao acordo coletivo do plano de saúde em 20 de fevereiro; em maio, informou liminar em ação de cobrança da Forluz relativa ao déficit do Plano A de previdência e, poucos dias depois, a suspensão dessa liminar; em 1º de agosto, informou ter vencido leilão da CCEE de créditos do GSF para extensão de concessões; e ao longo de setembro/dezembro houve novos fatos relevantes sobre acordo em dissídio coletivo do plano de saúde. No 3T25, o lucro líquido consolidado caiu para R$ 796,7 milhões, de R$ 3,28 bilhões no 3T24, com forte base de comparação e piora em geração, além de maior despesa financeira. Em proventos, a companhia pagou em 30 de junho de 2025 a 1ª parcela dos proventos do exercício de 2024, totalizando R$ 0,672799748 por ação entre dividendos e JCP aprovados.",
+      "positives": [
+        "Negócio de utilidade pública com portfólio integrado em distribuição, geração, transmissão, comercialização e gás.",
+        "Base operacional relevante, com mais de 9 milhões de clientes e concessão de distribuição muito extensa em Minas Gerais.",
+        "Perfil de renda atrativo, com histórico recente de distribuição relevante de dividendos/JCP.",
+        "Múltiplos locais fornecidos parecem descontados para uma utility madura, com P/L de 5,23 e dividend yield local de 13,68%.\",\"Liquidez elevada para padrão doméstico, o que facilita montagem e desmontagem de posição institucional ou de pessoa física com menor fricção.','Fato relevante de agosto de 2025 sobre créditos do GSF é positivo para a discussão de extensão de concessões, tema estrutural para o valor do ativo.'"
+      ],
+      "risks": [
+        "Risco regulatório e político elevado por ser utility controlada pelo Estado de Minas Gerais e dependente de decisões do poder concedente.",
+        "Contenciosos relevantes, especialmente plano de saúde PSI e passivos previdenciários/Forluz, podem afetar caixa, lucro e percepção de risco.",
+        "Resultado pode ser volátil em geração e comercialização por efeitos hidrológicos, GSF e itens não recorrentes.",
+        "Despesa financeira e obrigações futuras podem limitar a folga de caixa em ciclos menos favoráveis, apesar da geração operacional robusta de longo prazo.\",\"Peso recomendado zero no pipeline sugere que, na comparação com alternativas, o ativo pode não oferecer a melhor assimetria neste momento.\",\"Tese de dividendos pode sofrer caso surjam novas necessidades de investimento, contingências ou mudanças regulatórias."
+      ],
+      "sources": [
+        {
+          "title": "Central de Resultados 2025",
+          "publisher": "Cemig RI",
+          "url": "https://ri.cemig.com.br/divulgacao-e-resultados/central-de-resultados/2025",
+          "date": "2026-02-04"
+        },
+        {
+          "title": "Avisos, Comunicados e Fatos Relevantes 2025",
+          "publisher": "Cemig RI",
+          "url": "https://ri.cemig.com.br/divulgacao-e-resultados/avisos-comunicados-e-fatos-relevantes/2025",
+          "date": "2026-02-20"
+        },
+        {
+          "title": "Release de Resultados 3T25",
+          "publisher": "Cemig RI",
+          "url": "https://ri.cemig.com.br/docs/Press-release-Cemig-2025-09-30-HdzttHN8.pdf",
+          "date": "2025-09-30"
+        },
+        {
+          "title": "Aviso aos Acionistas – pagamento da 1ª parcela de proventos",
+          "publisher": "Cemig RI",
+          "url": "https://ri.cemig.com.br/docs/Aviso-aos-Acionistas-cemig-2025-06-11-TQ6qhbTd.pdf",
+          "date": "2025-06-11"
+        },
+        {
+          "title": "Demonstrações Financeiras Anuais Completas 2024",
+          "publisher": "Cemig RI",
+          "url": "https://ri.cemig.com.br/docs/Demonstracoes-Financeiras-Anuais-Completas-cemig-2024-12-31-gzWQ7CzL.pdf",
+          "date": "2025-12-31"
+        },
+        {
+          "title": "Apresentação Corporativa 2024",
+          "publisher": "Cemig RI",
+          "url": "https://ri.cemig.com.br/docs/cemig-2024-01-22-fhPhD8GQ.pdf",
+          "date": "2024-01-22"
+        }
+      ]
+    },
+    "SLCE3.SA": {
+      "ticker": "SLCE3.SA",
+      "company_name": "SLC Agrícola S.A.",
+      "asset_type": "stock",
+      "sector": "Agropecuária / Agronegócio",
+      "business_summary": "A SLC Agrícola é uma das maiores produtoras brasileiras de commodities agrícolas, com foco em algodão, soja e milho, além de pecuária e produção/comercialização de sementes sob a marca SLC Sementes. O modelo de negócio combina produção agrícola em larga escala, ganhos de eficiência operacional, comercialização da safra, venda de sementes e captura de valorização do portfólio de terras ao longo do tempo.",
+      "why_it_entered_portfolio": "Mesmo com peso recomendado local de 0,0000%, o ativo pode fazer sentido em uma carteira buy side como exposição ao agronegócio exportador, com receita ligada a commodities e parte relevante dos custos/receitas dolarizados, o que ajuda na diversificação frente a setores domésticos. A tese também inclui escala operacional, histórico de execução no campo e potencial de geração de valor via expansão de área plantada e aquisições de terras/operações. Por outro lado, o peso nulo do pipeline sugere que, neste momento, o papel não se destaca o suficiente em retorno ajustado a risco frente às alternativas da carteira, possivelmente por volatilidade operacional, alavancagem e sensibilidade ao ciclo agrícola.",
+      "recent_news_summary": "Os fatos recentes mais relevantes apontam para uma tese de crescimento com aumento de escala. No site de RI, a companhia destaca no 4T25 “recordes históricos de volume, receita faturada e M&As”. Para a safra 2025/26, a SLC projetou área plantada de 836.095 hectares, alta de 13,6% ano contra ano, refletindo expansão orgânica e aquisições. Em 2025, a empresa concluiu a compra da Sierentz Agro Brasil por cerca de R$ 738,2 milhões, adicionando operação agrícola relevante ao portfólio. Também celebrou, em março de 2025, contrato para compra de mais de 47 mil hectares na Bahia e em Minas Gerais por R$ 913 milhões, reforçando a estratégia de crescimento e captura de valorização fundiária. Outro ponto importante foi a nova avaliação do portfólio de terras divulgada em 8 de julho de 2025, que indicou valorização e reforça o valor patrimonial dos ativos. No fim de 2025, a companhia ainda anunciou dividendos intercalares de R$ 380 milhões.",
+      "positives": [
+        "Escala relevante e operação profissionalizada no agronegócio brasileiro, com presença em múltiplos estados.",
+        "Exposição a soja, milho e algodão, com diversificação de culturas e receita ligada a commodities exportáveis.",
+        "Expansão de área plantada para a safra 2025/26, sustentando crescimento operacional.",
+        "Estratégia consistente de aquisições, incluindo Sierentz Agro Brasil e compra de terras na Bahia e em Minas Gerais, com potencial de ganho operacional e patrimonial no longo prazo.`,`Valorização do portfólio de terras, o que reforça a tese de criação de valor além do resultado agrícola recorrente.`,"
+      ],
+      "risks": [
+        "Resultados dependem de clima, produtividade agrícola e incidência de pragas/doenças, o que pode gerar forte volatilidade entre safras.",
+        "Exposição a preços de commodities, câmbio e custos de insumos, afetando margens.",
+        "Execução e integração de aquisições podem pressionar retorno sobre capital no curto e médio prazo.",
+        "Estrutura de capital exige atenção: o dado local indica dívida/patrimônio elevada, o que pode aumentar sensibilidade a juros e ciclo operacional.`,`Negócio intensivo em capital e sujeito a riscos regulatórios, fundiários, ambientais e logísticos.`],"
+      ],
+      "sources": [
+        {
+          "title": "Home Page - SLC Agrícola RI",
+          "publisher": "SLC Agrícola RI",
+          "url": "https://ri.slcagricola.com.br/",
+          "date": "2026-03-11"
+        },
+        {
+          "title": "About Us - SLC Agrícola RI",
+          "publisher": "SLC Agrícola RI",
+          "url": "https://ri.slcagricola.com.br/en/the-company/about-us/",
+          "date": "2026-03-12"
+        },
+        {
+          "title": "SLC Agrícola conclui compra da Sierentz Agro Brasil por R$ 738,2 milhões",
+          "publisher": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/slc-agricola-conclui-compra-da-sierentz-agro-brasil-por-r-7382-milhoes/",
+          "date": "2025-07-11"
+        },
+        {
+          "title": "SLC Agrícola (SLCE3) compra terras na Bahia e em Minas Gerais por R$ 913 milhões",
+          "publisher": "InfoMoney / Reuters",
+          "url": "https://www.infomoney.com.br/mercados/slc-agricola-slce3-compra-terras-na-bahia-e-em-minas-gerais-por-r-913-milhoes/",
+          "date": "2025-03-14"
+        },
+        {
+          "title": "Fato Relevante",
+          "publisher": "SLC Agrícola / API MZ",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/a975c39b-3eca-4ad8-9330-2c0a0b8d1060/a70b78a4-c140-863a-869c-5cac40dc695a?origin=1",
+          "date": "2025-07-08"
+        },
+        {
+          "title": "Aviso aos Acionistas",
+          "publisher": "SLC Agrícola / API MZ",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/a975c39b-3eca-4ad8-9330-2c0a0b8d1060/cff1e042-4def-65ee-1e03-0d631f432a7d?origin=1",
+          "date": "2025-12-10"
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "executive_summary": "Esta carteira recomendada tem perfil de renda variável brasileira com viés de retorno absoluto e foco em eficiência risco-retorno. A composição final é bastante concentrada em seis nomes, com alocação praticamente cheia em CURY3, TIMS3, TGMA3, MBRF3, PETR4 e uma posição residual em VULC3, enquanto os demais ativos tiveram peso econômico nulo na otimização. No histórico avaliado, de 15/02/2023 a 05/03/2026, a estratégia apresentou retorno acumulado de 147,9%, bem acima do Ibovespa (66,8%) e do CDI (44,0%), com retorno anualizado estimado de 36,6%, volatilidade anualizada de 15,0%, Sharpe anualizado de 1,28 e drawdown máximo histórico de -14,8%. Em síntese, trata-se de uma carteira agressiva em classe de ativo, mas disciplinada na construção, buscando capturar prêmio de ações com controle de risco melhor que o normalmente observado em portfólios concentrados de bolsa.",
+    "allocation_rationale": "A distribuição de pesos faz sentido porque combina convicção estatística com diversificação entre teses setoriais distintas. CURY3, TGMA3 e PETR4 aparecem como posições relevantes por entregarem boa combinação entre alpha, métricas de assimetria favoráveis e potencial de contribuição ao retorno da carteira. TIMS3 ajuda a estabilizar o conjunto, por oferecer exposição a um segmento mais defensivo dentro da bolsa, com drawdown individual inferior ao de vários pares da carteira. MBRF3 entra como aposta cíclica e de diversificação econômica, ainda que com risco mais elevado, o que justifica peso alto, mas não dominante. VULC3 ficou com participação marginal, sinalizando que, apesar de bons indicadores pontuais, sua contribuição incremental para a fronteira eficiente foi limitada na solução final. Já UNIP6, VALE3, CMIG4 e SLCE3, embora tenham atributos interessantes isoladamente, perderam espaço na etapa de otimização porque o ganho marginal de diversificação ou de retorno ajustado ao risco foi inferior ao dos ativos escolhidos. O resultado é uma carteira concentrada, porém não aleatória: ela distribui risco entre construção civil, telecom, logística, proteínas e energia, evitando dependência total de um único vetor macro.",
+    "main_strengths": [
+      "Histórico de desempenho muito superior aos benchmarks do período, com retorno acumulado bem acima de Ibovespa e CDI.",
+      "Relação risco-retorno favorável no agregado, refletida em Sharpe anualizado estimado de 1,28 com volatilidade anualizada de 15,0%.",
+      "Drawdown máximo histórico da carteira relativamente contido (-14,8%) quando comparado ao drawdown individual de vários ativos, sugerindo benefício relevante de diversificação e calibragem de pesos.",
+      "Composição multissetorial, combinando papéis cíclicos e mais defensivos, o que melhora a resiliência do portfólio.",
+      "Predominância de ativos com boa liquidez de mercado, favorecendo executabilidade e rebalanceamentos."
+    ],
+    "main_risks": [
+      "A carteira é concentrada: cinco ativos respondem por praticamente toda a alocação, o que eleva risco específico caso alguma tese se deteriore.",
+      "Alguns componentes têm drawdowns históricos individuais elevados, especialmente TGMA3, MBRF3, PETR4 e VULC3, o que pode pressionar a carteira em choques setoriais ou macroeconômicos.",
+      "Há exposição relevante a segmentos cíclicos e sensíveis ao ambiente doméstico e global, como construção, commodities e proteínas.",
+      "Parte do resultado histórico pode refletir condições particularmente favoráveis do período analisado; portanto, a persistência desse excesso de retorno não é garantida fora da amostra.",
+      "TGMA3 apresenta liquidez significativamente menor que os demais principais nomes, o que merece atenção em cenários de estresse ou movimentações maiores de capital."
+    ],
+    "methodology_note": "Metodologia, em linha geral: primeiro foi feita uma seleção prévia de ativos com base em critérios quantitativos de qualidade de retorno e risco, incluindo medidas como Sharpe modificado, omega, alpha de Jensen, drawdown e liquidez. Em seguida, os pesos foram otimizados para maximizar o retorno ajustado ao risco da carteira, considerando o efeito de correlação entre os ativos. Por isso, alguns papéis com bons indicadores individuais receberam peso residual ou nulo: a decisão final depende não apenas da atratividade isolada, mas da contribuição marginal de cada ativo para a eficiência do portfólio como um todo."
+  }
+}
