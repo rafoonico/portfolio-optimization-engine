@@ -1,1 +1,25 @@
-*.sh
+# ambientes
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# segredos
+.env
+.env.*
+!.env.example
+secrets/
+
+# outputs e dados gerados
+/data/report_output/
+/data/*.csv
+/data/*.parquet
+/data/*.xlsx
+/draft/*.txt
+/draft/*.pdf
+!/data/list_titles_FII_stocks.xlsx
+
+# arquivos do sistema/editor
+.DS_Store
+.vscode/

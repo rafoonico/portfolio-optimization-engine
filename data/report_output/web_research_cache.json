@@ -577,6 +577,124 @@
           "date": "2025-12-10"
         }
       ]
+    },
+    "CPLE3.SA": {
+      "ticker": "CPLE3.SA",
+      "company_name": "Copel (Companhia Paranaense de Energia)",
+      "asset_type": "stock",
+      "sector": "Utilidade Pública / Energia Elétrica",
+      "business_summary": "A Copel é uma elétrica integrada que atua em geração, transmissão, distribuição e comercialização de energia. Na prática, ela ganha dinheiro de quatro jeitos principais: (i) distribuindo energia para mais de 5 milhões de unidades consumidoras, principalmente no Paraná; (ii) recebendo receita regulada dos ativos de transmissão; (iii) vendendo energia gerada por suas usinas; e (iv) operando no mercado livre por meio da comercialização. É o tipo de negócio em que uma parte relevante da receita é mais previsível e regulada — quase como uma banda com setlist fixo em boa parte do show, mas com espaço para improviso nas linhas de geração e comercialização.",
+      "why_it_entered_portfolio": "Dentro de uma carteira voltada a acumulação de patrimônio e renda passiva, CPLE3 faz sentido como um pilar de qualidade no setor elétrico: combina geração de caixa recorrente, perfil defensivo, liquidez elevada, histórico e perspectiva de dividendos relevantes, além de uma tese de melhoria operacional e governança após a transformação em corporation. Em termos de portfólio, é um ativo que ajuda a equilibrar risco cíclico de outras posições com receita mais estável e potencial de reprecificação por eficiência, disciplina de capital e simplificação societária.",
+      "recent_news_summary": "Os fatos recentes mais relevantes para a tese são: (1) a companhia divulgou no 3T25 EBITDA recorrente de R$ 1,358 bilhão, lucro líquido recorrente de R$ 682,6 milhões e receita líquida de R$ 6,874 bilhões, mostrando resiliência operacional; (2) a estrutura acionária segue dispersa após a mudança para corporation, com Estado do Paraná em 15,9% e BNDESPar em 22,0%, o que reduz o peso do controle estatal clássico, embora ainda exista influência relevante de acionistas públicos; (3) a empresa aprovou/indicou distribuição expressiva referente a 2025, totalizando R$ 2,45 bilhões, sendo R$ 1,1 bilhão em JCP com pagamento em 19 de janeiro de 2026 e R$ 1,35 bilhão em dividendos ainda com data a definir; (4) o mercado acompanha a agenda de governança e simplificação societária, incluindo migração ao Novo Mercado ao fim de 2025; e (5) a tese operacional segue ancorada em eficiência, expansão e modernização da distribuição, segmento que recebeu investimentos relevantes. O resumo do filme é: menos novela de estatal tradicional e mais foco em execução, retorno e dividendo.",
+      "positives": [
+        "Negócio de utilidade pública com base relevante de receita regulada e previsível.",
+        "Atuação integrada em distribuição, transmissão, geração e comercialização, o que diversifica fontes de resultado.",
+        "Base operacional robusta: mais de 5 milhões de unidades consumidoras e presença dominante no Paraná.",
+        "Boa liquidez de mercado, o que facilita montagem e ajuste de posição na carteira sem muito atrito — importante para um papel com peso alto recomendado no pipeline (30%).\",\"Histórico recente de distribuição forte de proventos e sinalização de payout elevado, alinhado ao objetivo de renda passiva.\",\"Melhora de governança após a virada para corporation e avanço para Novo Mercado, potencialmente reduzindo desconto estrutural.\",\"Tese de eficiência operacional e disciplina de capital ainda pode destravar valor adicional ao longo dos próximos ciclos regulatórios.\"],"
+      ],
+      "risks": [
+        "Empresa ainda carrega influência estatal relevante via Estado do Paraná e BNDESPar, o que pode afetar decisões estratégicas em alguns momentos.",
+        "Setor elétrico é regulado: revisões tarifárias, regras da Aneel e discussões sobre remuneração de ativos podem mexer no valuation.",
+        "Alavancagem e custo financeiro seguem pontos de atenção; a dívida líquida/EBITDA foi acompanhada de perto pelo mercado em 2025.",
+        "Resultados de geração e comercialização podem oscilar com hidrologia, GSF, PLD, curtailment e condições do mercado de energia — aqui o som sai do modo estúdio e entra no ao vivo com risco de microfonia.\",\"Peso recomendado de 30% é alto para um único nome; mesmo sendo defensiva, há risco de concentração excessiva na carteira.\",\"Parte da tese de rerating depende de execução consistente da agenda de eficiência, governança e alocação de capital, então não basta a narrativa: precisa entregar.\"],"
+      ],
+      "sources": [
+        {
+          "title": "Perfil Corporativo",
+          "publisher": "Copel RI",
+          "url": "https://ri.copel.com/en/copel/corporate-profile/",
+          "date": "2023-10-07"
+        },
+        {
+          "title": "Dividendos",
+          "publisher": "Copel RI",
+          "url": "https://ri.copel.com/dados-financeiros/dividendos/",
+          "date": "2026-03-12"
+        },
+        {
+          "title": "Composição Acionária",
+          "publisher": "Copel RI",
+          "url": "https://ri.copel.com/governanca-corporativa/composicao-acionaria/",
+          "date": "2026-01-31"
+        },
+        {
+          "title": "Home / Resultados 3T25",
+          "publisher": "Copel RI",
+          "url": "https://ri.copel.com/",
+          "date": "2026-03-11"
+        },
+        {
+          "title": "Copel aprova nova política de dividendos e prevê distribuição de até 75% do seu lucro",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/empresas/noticia/2025/05/09/copel-aprova-nova-poltica-de-dividendos-e-prev-distribuio-de-at-75-pontos-percentuais-do-seu-lucro.ghtml",
+          "date": "2025-05-09"
+        },
+        {
+          "title": "Demonstrações Financeiras Padronizadas 2024",
+          "publisher": "Valor Publicidade Legal / Companhia",
+          "url": "https://publicidadelegal.valor.com.br/valor/2025/02/28/COPELHOLDING1581076528022025.pdf",
+          "date": "2025-02-28"
+        }
+      ]
+    },
+    "DIRR3.SA": {
+      "ticker": "DIRR3.SA",
+      "company_name": "Direcional Engenharia S.A.",
+      "asset_type": "stock",
+      "sector": "Construção civil / incorporação residencial de baixa e média-baixa renda",
+      "business_summary": "A Direcional é uma incorporadora e construtora focada principalmente em habitação popular e segmentos de média-baixa renda, com atuação relevante em projetos enquadrados no Minha Casa, Minha Vida. O modelo é relativamente verticalizado: a empresa origina terrenos, desenvolve projetos, constrói, vende unidades e também presta serviços ligados à produção. Na prática, ela ganha dinheiro capturando margem entre custo do terreno + obra + despesas comerciais/administrativas e o preço de venda das unidades, além de girar capital por meio de lançamentos, vendas e repasses. A companhia destaca escala, padronização construtiva e disciplina de custos como alavancas de rentabilidade.",
+      "why_it_entered_portfolio": "Mesmo com peso recomendado local igual a 0,0000%, DIRR3 pode fazer sentido no universo elegível de uma carteira recomendada como exposição cíclica de qualidade dentro da bolsa brasileira: combina crescimento operacional, alta rentabilidade, boa liquidez, presença no Minha Casa Minha Vida e histórico forte de execução. É o tipo de ação que funciona como uma faixa de guitarra bem afinada no meio do caos macro: quando a banda do setor toca redondo — juros mais comportados, crédito fluindo e demanda residencial resiliente — a Direcional tende a converter isso em lucro e ROE acima da média. Para um investidor de perfil moderado-alto buscando acumulação e renda, o apelo está na combinação de crescimento + geração de caixa/lucro + distribuição de proventos. Ainda assim, o peso zero do pipeline sugere cautela tática no momento, possivelmente por critérios quantitativos de portfólio, correlação, risco ou timing, e não por ausência de qualidade fundamental.",
+      "recent_news_summary": "Os fatos recentes reforçam uma tese de execução muito forte. A companhia divulgou resultados do 4T25 em 9 de março de 2026, com lucro líquido de R$ 211,4 milhões no trimestre, alta anual de 27,7%, e EBITDA ajustado recorde de R$ 346 milhões, segundo a cobertura da imprensa econômica baseada no release da empresa. Em 2025, o lucro líquido ficou em R$ 757,8 milhões, também recorde. A rentabilidade continuou chamando atenção, com ROE perto de 44% no 4T25 em reportes de mercado. Por outro lado, houve aumento da dívida líquida no fim de 2025 versus 3T25, em parte associado à dinâmica financeira e antecipação de pagamento de dividendos, então o ponto não parece estruturalmente alarmante, mas merece monitoramento. No campo societário e de mercado de capitais, a Direcional entrou no Ibovespa em maio de 2025 e aprovou desdobramento de 3 para 1 em agosto de 2025, movimentos que aumentam visibilidade e liquidez. A companhia também mantém histórico relevante de retorno ao acionista e segue listada no Novo Mercado.",
+      "positives": [
+        "Exposição relevante ao segmento de baixa renda, que costuma ter demanda estruturalmente resiliente no Brasil e forte apoio do programa Minha Casa, Minha Vida.",
+        "Execução operacional consistente, com recordes recentes de lucro, EBITDA e margem, sinalizando boa disciplina de custos e precificação.",
+        "ROE muito elevado para o setor, sugerindo modelo operacional eficiente e bom uso de capital.",
+        "Banco de terrenos robusto e presença geográfica diversificada em importantes regiões metropolitanas, o que sustenta crescimento futuro de lançamentos e vendas.','Melhora de liquidez e visibilidade no mercado após entrada no Ibovespa e desdobramento de ações em 2025.','Histórico de retorno ao acionista, via dividendos e recompra, o que conversa bem com objetivo de renda passiva no longo prazo.'"
+      ],
+      "risks": [
+        "Tese bastante sensível ao ciclo de juros, crédito imobiliário e renda das famílias: se o macro desafina, as vendas e margens podem sentir.",
+        "Dependência relevante de programas habitacionais e do ambiente regulatório/político ligado à habitação popular.",
+        "Setor de construção está sujeito a pressão de custos de obra, mão de obra e insumos, o que pode corroer margem se repasse de preço ficar mais difícil.",
+        "A dívida líquida aumentou no 4T25 em relação ao 3T25; embora a alavancagem histórica pareça administrável, o tema precisa de acompanhamento trimestral.','Como toda incorporadora, há risco de execução em lançamentos, velocidade de vendas, distratos, repasses e qualidade do banco de terrenos.','Após forte valorização operacional e múltiplos ainda não baratos versus alguns pares, parte da qualidade já pode estar refletida no preço, reduzindo margem de segurança em certos momentos.'"
+      ],
+      "sources": [
+        {
+          "title": "Home Page / Divulgação de Resultados 4T25",
+          "publisher": "RI Direcional",
+          "url": "https://ri.direcional.com.br/",
+          "date": "2026-03-09"
+        },
+        {
+          "title": "Histórico da Companhia",
+          "publisher": "RI Direcional",
+          "url": "https://ri.direcional.com.br/a-companhia/historico/",
+          "date": "2026-02-01"
+        },
+        {
+          "title": "Corporate Profile",
+          "publisher": "RI Direcional",
+          "url": "https://ri.direcional.com.br/en/the-company/corporate-profile/",
+          "date": "2026-02-01"
+        },
+        {
+          "title": "Dividendos",
+          "publisher": "RI Direcional",
+          "url": "https://ri.direcional.com.br/acoes/dividendos/",
+          "date": "2026-03-01"
+        },
+        {
+          "title": "Direcional (DIRR3) tem lucro líquido de R$ 211 mi no 4º tri, alta anual de 27,7%",
+          "publisher": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/direcional-dirr3-resultados-quarto-trimestre-2025/",
+          "date": "2026-03-09"
+        },
+        {
+          "title": "1ª prévia da carteira do Ibovespa B3 que entra em vigor em maio inclui Direcional (DIRR3)",
+          "publisher": "B3 Bora Investir",
+          "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/indices/1a-previa-da-carteira-do-ibovespa-b3-que-entra-em-vigor-em-maio-inclui-direcional-dirr3/",
+          "date": "2025-04-01"
+        }
+      ]
     }
   },
   "portfolio": {
