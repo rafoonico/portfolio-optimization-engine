@@ -19,7 +19,11 @@ secrets/
 /draft/*.txt
 /draft/*.pdf
 !/data/list_titles_FII_stocks.xlsx
+*.csv
+*.png
+
 
 # arquivos do sistema/editor
 .DS_Store
 .vscode/
+

@@ -404,7 +404,7 @@ Regras:
 - Prefira RI da companhia, B3, fatos relevantes, release de resultados e veículos econômicos conhecidos.
 - Se houver divergências, priorize fontes primárias.
 - Seja específico, mas sem jargão excessivo.
-- Você não vai fazer comentário individual de ativo cujo peso recomendado na carteira seja menor que 1%, mas ainda assim deve entregar as informações acima de forma concisa e objetiva.
+- Você não vai fazer comentário individual de ativo cujo peso recomendado na carteira seja menor que 1%.
 """.strip()
 
 

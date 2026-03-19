@@ -695,6 +695,65 @@
           "date": "2025-04-01"
         }
       ]
+    },
+    "FESA4.SA": {
+      "ticker": "FESA4.SA",
+      "company_name": "Cia. de Ferro Ligas da Bahia – FERBASA",
+      "asset_type": "stock",
+      "sector": "Metalurgia e Siderurgia",
+      "business_summary": "A Ferbasa é uma produtora brasileira de ferroligas, com foco em ferrocromo e ferrossilício, insumos usados principalmente na fabricação de aços inoxidáveis e aços especiais. O modelo de negócio é bem 'origem story completa', quase um universo cinematográfico próprio: a companhia combina mineração, metalurgia, florestas renováveis e energia, o que ajuda a controlar parte relevante da cadeia de produção. Ela ganha dinheiro vendendo essas ligas para clientes no Brasil e no exterior; a receita e as margens variam conforme preços internacionais das ferroligas, câmbio, volume exportado e custo de energia e matérias-primas.",
+      "why_it_entered_portfolio": "Como o peso recomendado no pipeline é 0,00%, FESA4 não entra de fato como posição relevante na carteira recomendada agora — é mais figura de 'personagem interessante, mas cortado da edição final'. Ainda assim, o ativo tem atributos que podem chamar atenção em outros contextos: exposição a ciclo de commodities metálicas, operação verticalizada, histórico de distribuição de proventos e balanço com caixa líquido no 1T25. O que provavelmente impede maior espaço na carteira é a combinação de alta volatilidade/ciclicidade, drawdown histórico elevado no pipeline e lucros sensíveis a preço internacional e custos de energia.",
+      "recent_news_summary": "Nos fatos mais recentes, o 1T25 mostrou melhora operacional versus 4T24, mas com lucro bem mais fraco: a receita líquida ficou em R$ 549,8 milhões (-9,5% t/t; +7,9% a/a), o EBITDA ajustado foi de R$ 61,1 milhões (+30,0% t/t; -22,1% a/a) e o lucro líquido caiu para R$ 24,2 milhões (-80,8% t/t; -41,1% a/a), muito afetado pela base forte do 4T24, que teve efeitos financeiros/tributários relevantes. Ao fim do 1T25, a companhia reportou caixa líquido de R$ 786,6 milhões. Em proventos, o histórico do RI mostra JCP declarado em 29/05/2025 e pago em 18/06/2025, além de dividendos/JCP relevantes em 2024 e 2025, reforçando o perfil de pagadora, embora o nível de distribuição dependa do ciclo do negócio. Em 2025, a agenda corporativa indicava divulgação do 1T25 em 12/05/2025. Em noticiário, houve destaque para o 4T24, quando a companhia mais que dobrou o lucro na comparação anual, impulsionada por avanço de receita e efeitos não recorrentes.",
+      "positives": [
+        "Operação verticalizada, com mineração, metalurgia, base florestal e energia, o que reduz dependência externa em partes críticas da cadeia.",
+        "Posição competitiva relevante: a companhia se apresenta como principal fornecedora de ferroligas do Brasil e única produtora integrada de ferrocromo das Américas.",
+        "Caixa líquido no 1T25, o que dá mais resiliência para enfrentar fases ruins do ciclo.",
+        "Histórico consistente de pagamento de proventos, com ações preferenciais tendo direito a dividendos 10% maiores que as ON."
+      ],
+      "risks": [
+        "Negócio altamente cíclico: preços e demanda por ferroligas dependem do mercado global de aço inox e aço especial.",
+        "Margens pressionadas por custo de energia e de minério de cromo; quando esses custos sobem, o resultado sente.",
+        "Lucro pode oscilar bastante por efeitos financeiros, cambiais e tributários, o que deixa a leitura do resultado menos linear.",
+        "Pipeline local sugere risco alto de trajetória, com max drawdown elevado e peso recomendado nulo na carteira atual."
+      ],
+      "sources": [
+        {
+          "title": "Press Release 1T25",
+          "publisher": "Ferbasa RI",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/e71f73d4-4d0a-41fb-8e5b-8d7f3660b6ad/a8093cae-6a66-a9fa-786d-82bfb1a676de?origin=2",
+          "date": "2025-05-12"
+        },
+        {
+          "title": "Investidores - Central de Resultados",
+          "publisher": "Ferbasa RI",
+          "url": "https://www.ferbasa.com.br/investidores/",
+          "date": "2025-03-19"
+        },
+        {
+          "title": "Histórico de Pagamentos de Proventos",
+          "publisher": "Ferbasa RI",
+          "url": "https://www.ferbasa.com.br/informacoes-aos-investidores/historico-de-pagamentos-de-proventos/",
+          "date": "2025-03-19"
+        },
+        {
+          "title": "Perguntas Frequentes",
+          "publisher": "Ferbasa RI",
+          "url": "https://www.ferbasa.com.br/servicos-aos-investidores/perguntas-frequentes/",
+          "date": "2025-03-19"
+        },
+        {
+          "title": "Company Profile",
+          "publisher": "Ferbasa RI",
+          "url": "https://www.ferbasa.com.br/en/corporate-governance/company-profile/",
+          "date": "2025-03-19"
+        },
+        {
+          "title": "Ferbasa mais do que dobra lucro no 4º trimestre",
+          "publisher": "Valor Econômico",
+          "url": "https://valor.globo.com/empresas/noticia/2025/03/07/ferbasa-mais-do-que-dobra-lucro-no-4o-trimestre.ghtml",
+          "date": "2025-03-07"
+        }
+      ]
     }
   },
   "portfolio": {
