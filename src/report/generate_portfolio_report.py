@@ -344,29 +344,37 @@ def make_client() -> OpenAI:
     return OpenAI()
 
 def build_user_context(profile):
-
     return f"""
-Leitor do relatório:
+        PERFIL DO LEITOR — ISTO DEVE TER PRIORIDADE NO ESTILO DO TEXTO.
 
-Profissão: {profile['profession']}
-Conhecimento sobre investimentos: {profile['knowledge']}
-Objetivo com investimentos: {profile['objective']}
-Tolerância a risco: {profile['risk']}
+        Dados do leitor:
+        - Profissão: {profile['profession']}
+        - Conhecimento sobre investimentos: {profile['knowledge']}
+        - Objetivo com investimentos: {profile['objective']}
+        - Tolerância a risco: {profile['risk']}
+        - Forma de explicação preferida: {profile['info_style']}
+        - Tom de linguagem preferido: {profile['tone']}
+        - Interesses pessoais: {profile['hobbies']}
 
-Preferências de comunicação:
-- Forma de explicação: {profile['info_style']}
-- Tom de linguagem: {profile['tone']}
+        REGRAS OBRIGATÓRIAS DE ESTILO:
+        - Escreva para esta pessoa específica, não para um leitor genérico.
+        - O tom, vocabulário, ritmo e exemplos devem refletir esse perfil.
+        - Se houver conflito entre "tom padrão de analista buy side" e o estilo preferido do leitor, priorize o estilo do leitor.
+        - Não use linguagem engessada, burocrática, protocolar ou com cara de relatório de corretora, a menos que o perfil peça isso explicitamente.
+        - Evite frases genéricas que serviriam para qualquer investidor.
+        - Use comparações, metáforas e referências compatíveis com os gostos do leitor quando isso deixar o texto mais claro e agradável.
+        - O texto deve soar como se tivesse sido escrito sob medida para esse perfil.
 
-Interesses pessoais: {profile['hobbies']}
-
-Adapte a linguagem e exemplos do relatório para esse perfil.
-"""
+        TESTE DE QUALIDADE:
+        - Se este texto puder ser entregue para qualquer investidor sem mudar quase nada, ele está errado.
+        """
 
 def ticker_prompt(snapshot: Dict[str, Any]) -> str:
     return f"""
 {build_user_context(user_profile)}
 
-Você é um analista buy side cobrindo ações brasileiras e FIIs.
+Você é um analista buy side brasileiro com boa capacidade de adaptação de linguagem.
+Seu dever é manter o rigor dos fatos, mas ajustar o jeito de escrever ao perfil do leitor.
 Pesquise somente em fontes abertas e gratuitas na web.
 Escreva em português do Brasil.
 
@@ -405,6 +413,14 @@ Regras:
 - Se houver divergências, priorize fontes primárias.
 - Seja específico, mas sem jargão excessivo.
 - Você não vai fazer comentário individual de ativo cujo peso recomendado na carteira seja menor que 1%.
+
+IMPORTANTE SOBRE O TOM:
+- Não escreva como relatório de corretora, release de RI ou comentário televisivo cheio de jargão.
+- Prefira frases vivas, naturais e menos engessadas quando o perfil do leitor pedir isso.
+- Em vez de "o ativo apresenta upside com assimetria favorável", prefira algo mais humano e claro.
+- Em vez de "a companhia possui fundamentos robustos", explique o motivo de forma concreta.
+- O texto precisa informar sem parecer que está tentando impressionar com economês.
+
 """.strip()
 
 
@@ -448,6 +464,13 @@ Explique:
 4) uma nota curta sobre metodologia: seleção prévia dos ativos + otimização de pesos com foco em retorno ajustado ao risco.
 
 Seja analítico, equilibrado e objetivo.
+
+IMPORTANTE SOBRE O TOM:
+- Não escreva como relatório de corretora, release de RI ou comentário televisivo cheio de jargão.
+- Prefira frases vivas, naturais e menos engessadas quando o perfil do leitor pedir isso.
+- Em vez de "o ativo apresenta upside com assimetria favorável", prefira algo mais humano e claro.
+- Em vez de "a companhia possui fundamentos robustos", explique o motivo de forma concreta.
+- O texto precisa informar sem parecer que está tentando impressionar com economês.
 """.strip()
 
 
@@ -487,8 +510,30 @@ def run_web_research(metrics_df: pd.DataFrame, perf: Dict[str, Any]) -> Dict[str
     cache = load_cache()
 
     ticker_results: Dict[str, Any] = {}
+    min_detailed_weight_pct = 1.0
+
     for _, row in metrics_df.iterrows():
         ticker = row["ticker"]
+        allocation_pct = float(row.get("allocation_pct", 0.0))
+
+        if allocation_pct < min_detailed_weight_pct:
+            ticker_results[ticker] = {
+                "ticker": ticker,
+                "company_name": ticker.replace(".SA", ""),
+                "asset_type": row.get("asset_type", classify_asset_type(ticker)),
+                "sector": "Posição residual / sem comentário detalhado",
+                "business_summary": "Ativo com peso residual na carteira final.",
+                "why_it_entered_portfolio": (
+                    "Apesar de ter aparecido no universo elegível, sua contribuição marginal "
+                    "para a solução ótima foi pequena frente às alternativas com maior peso."
+                ),
+                "recent_news_summary": "",
+                "positives": [],
+                "risks": [],
+                "sources": [],
+            }
+            continue
+
         if USE_CACHE and not FORCE_REFRESH and ticker in cache.get("tickers", {}):
             ticker_results[ticker] = cache["tickers"][ticker]
             continue
