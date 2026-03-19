@@ -21,7 +21,8 @@ secrets/
 !/data/list_titles_FII_stocks.xlsx
 *.csv
 *.png
-
+*.pdf
+*.json
 
 # arquivos do sistema/editor
 .DS_Store

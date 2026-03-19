@@ -345,6 +345,8 @@ USER_RISK_TOLERANCE=Moderate
 USER_INFO_STYLE=Clear and practical
 USER_LANGUAGE_TONE=Professional
 USER_HOBBIES=Technology, travel, books
+
+FORCE_REFRESH=false
 ```
 
 Windows example values:
